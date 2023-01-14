@@ -11,9 +11,9 @@ setuptools.setup(
     description="Convert log to json",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/aldiwijayaa/log2json",
     project_urls={
-        "Bug Tracker": "",
+        "Bug Tracker": "https://github.com/aldiwijayaa/log2json/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -4,9 +4,8 @@ Convert log file to text or json format.
 
 ## Installation
 
-This project can be installed via `pip`:
-
 Or build it yourself by cloning this project:
+git clone : "https://github.com/aldiwijayaa/log2json"
 
 Then install
 
