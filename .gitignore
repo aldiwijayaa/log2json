@@ -1,0 +1,5 @@
+log2json/**/__pycache__
+build
+dist
+tmp
+
